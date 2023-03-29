@@ -1,0 +1,10 @@
+Atividade em grupo:
+- o grupo vai:
+- criar um repositório local feito
+- criar um ou mais arquivos com informações feito
+- fazer commit para cada arquivo criado e alterado^
+- verificar user.name e o user.email
+- criar um repositório remoto
+- conectar o repositório remoto com o local
+- verificar se a conexão com o repo remoto com local foi bem sucedida
+- no final de tudo, dar fazer um push para o repositório remoto
